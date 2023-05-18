@@ -5,6 +5,8 @@ My first case study that combines my love for marketing with analytical skills t
 - Instagram is the most influential social media platform.
 - Using 5% of total marketing budget on social media campaigns are most efficient. 
 - Using any of the 4 influencer types yields the same amount of results.
+
+- Visuals and slide deck [here](https://github.com/LeanaIssys/Marketing_Budget/blob/aeda762a4d069a4d988f3f68d79545f7a799ba61/Marketing%20Budget%20(Excel).pdf)
 ### RECOMMENDATIONS
 #### - Make marketing content appealing to both genders, include female social media users when creating campaigns
 - Gender neutral or inclusive themes
