@@ -1,7 +1,7 @@
 # Marketing Budget
 My first case study that combines my love for marketing with analytical skills to create valuable insights as to where buinesses should be allocating their marketing budget using Excel to explore trends and create visuals. Link to my (messy) [Excel workbook](https://1drv.ms/x/s!ApGAMWtOh5G-anPT2QSqX_6uk2M)
 ### SUMMARY OF INSIGHTS
-- Female social media users are 19% more likely to buy more than their male users.
+- Female social media users are 19% more likely to buy more than male users.
 - Instagram is the most influential social media platform.
 - Using 5% of total marketing budget on social media campaigns are most efficient. 
 - Using any of the 4 influencer types yields the same amount of results.
@@ -10,7 +10,7 @@ My first case study that combines my love for marketing with analytical skills t
 ### RECOMMENDATIONS
 #### - Make marketing content appealing to both genders, include female social media users when creating campaigns
 - Gender neutral or inclusive themes
-- Target towards wives, girlfriends, sisters, etc. where applicable 
+- Target towards wives, girlfriends, sisters, etc. whenever applicable 
 #### - Focus efforts on Instagram content
 - posts, shorts, ads, etc.
 - Research, content creation, influencers, engagement
