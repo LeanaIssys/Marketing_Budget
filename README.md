@@ -1,5 +1,6 @@
 # Marketing Budget
-My first case study that combines my love for marketing with analytical skills to create valuable insights as to where buinesses should be allocating their marketing budget using Excel to explore trends and create visuals. Link to my (messy) [Excel workbook](https://1drv.ms/x/s!ApGAMWtOh5G-anPT2QSqX_6uk2M)
+My first case study that combines my love for marketing with analytical skills to create valuable insights as to where buinesses should be allocating their marketing budget using Excel to explore trends and create visuals.
+- Link to my (messy) [Excel workbook](https://1drv.ms/x/s!ApGAMWtOh5G-anPT2QSqX_6uk2M)
 ### SUMMARY OF INSIGHTS
 - Female social media users are 19% more likely to buy more than male users.
 - Instagram is the most influential social media platform.
